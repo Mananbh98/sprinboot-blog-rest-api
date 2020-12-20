@@ -1,4 +1,4 @@
-package com.gopix.BlogRest;
+/*package com.gopix.BlogRest;
 
 
 import java.util.ArrayList;
@@ -16,7 +16,8 @@ public class BlogMockedData {
 		deleteBlog(){}
 		*/
 	
-	// list of blog posts
+	/*
+	 
 	private List<Blog> blogs;
 	
 	private static BlogMockedData instance = null;
@@ -25,7 +26,9 @@ public class BlogMockedData {
 	 This static method checks if the class is already instantiated and return the existing instance,
 	 otherwise it creates a new instance of that class and returns it.
 	 */
-	public static BlogMockedData getInstance() {
+	/*
+	  public static BlogMockedData getInstance() {
+	 
 		if(instance == null ) {
 			instance = new BlogMockedData();
 		}
@@ -131,3 +134,4 @@ public class BlogMockedData {
     }
 
 }
+*/
